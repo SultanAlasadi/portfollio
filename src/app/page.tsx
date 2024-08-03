@@ -195,8 +195,6 @@ export default function Page() {
                     title={project.title}
                     description={project.description}
                     location={project.location}
-                    by={project.by}
-                    credential={project.credential}
                     dates={project.dates}
                     image={project.image}
                     links={project.links}

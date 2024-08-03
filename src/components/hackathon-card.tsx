@@ -5,8 +5,7 @@ import Link from "next/link";
 interface Props {
   title: string;
   description: string;
-  by: string;
-  credential: string;
+
   dates: string;
   location: string;
   image?: string;
@@ -14,8 +13,6 @@ interface Props {
     icon: React.ReactNode;
     title: string;
     href: string;
-    by: string;
-    credential: string;
   }[];
 }
 
@@ -26,8 +23,6 @@ export function HackathonCard({
   location,
   image,
   links,
-  by,
-  credential,
 }: Props) {
   return (
     <li className="relative ml-10 py-4">
