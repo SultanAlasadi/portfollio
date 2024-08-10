@@ -220,7 +220,25 @@ export const DATA = {
           icon: <Icons.globe className="size-3" />,
         },
       ],
-      image: "/store.png",
+      image: "/gori.png",
+      video: "",
+    },
+    {
+      title: "Ellaboutique",
+      href: "#", //https://ellaboutiquetr.com
+      dates: " 2024",
+      active: true,
+      description:
+        "Developed a responsive e-commerce website for showcasing clothes, featuring product listings. Built with HTML, CSS, Bootstrap, and Swiper.js to ensure a modern and user-friendly interface.",
+      technologies: ["HTML", "CSS", "Bootstrap", "Swiper.js"],
+      links: [
+        {
+          type: "Website",
+          href: "#", //https://ellaboutiquetr.com
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/ela.png",
       video: "",
     },
   ],
