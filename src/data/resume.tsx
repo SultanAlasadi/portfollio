@@ -4,7 +4,7 @@ import { CodeIcon, HomeIcon, NotebookIcon, PencilLine } from "lucide-react";
 export const DATA = {
   name: "Sultan Alasadi",
   initials: "SA",
-  url: "https://stm.com",
+  url: "https://sultanalasadi.vercel.app/",
   location: "Turkey - Istanbul",
   locationLink: "https://www.google.com/maps/place/Istanbul",
   description:
@@ -12,31 +12,27 @@ export const DATA = {
 
   summary:
     "I'm Sultan, a dynamic Frontend Developer with a knack for crafting beautiful, functional websites. Armed with a degree in Computer Engineering and a toolkit filled with Next.js, React, and a suite of modern web technologies, I've been on a mission to elevate user experiences across the digital landscape. From my time at BluLogix where I wrangled APIs and built dynamic interfaces, to my role at VEGA SDS where I ensured pixel-perfect responsiveness across devices, I've honed my skills in turning complex problems into elegant solutions. When I'm not pushing pixels or debugging code, you can find me exploring the latest web technologies or collaborating on innovative projects. My goal? To create web experiences that not only meet user needs but exceed their expectations. Let's build something amazing together!",
-  avatarUrl: "/me.png",
+  avatarUrl: "/sultan.jpg",
   skills: [
     "React.js",
     "Next.js",
     "JavaScript",
     "HTML",
     "CSS",
+    "SASS",
     "Bootstrap",
     "Tailwind CSS",
     "JavaScript",
     "Redux",
     "Redux-Toolkit",
-    "React Router",
-    "React-hook-Form",
     "Git",
     "GitHub",
     "Material UI",
     "REST API integration",
     "Axios",
-    "Appwrite",
     "JIRA",
     "Figma",
     "Responsive Design",
-    "Cross-browser Compatibility",
-    "Web Performance Optimization",
     "Agile Methodology",
   ],
   softSkills: [
@@ -110,7 +106,7 @@ export const DATA = {
       badges: [],
       location: "Istanbul, Turkey",
       title: "Front-end Developer",
-      logoUrl: "/blulogix.png",
+      logoUrl: "/blulogix-logo--small-2020.png",
       start: "Jan 2024",
       end: "Jun 2024",
       description:
@@ -122,7 +118,7 @@ export const DATA = {
       badges: [],
       location: "Istanbul, Turkey",
       title: "Front-end Developer",
-      logoUrl: "/vegasds.png",
+      logoUrl: "/images.jpeg",
       start: "Jan 2023",
       end: "Jan 2024",
       description:
@@ -144,7 +140,7 @@ export const DATA = {
       title: "E-commerce-2024",
       href: "https://shopcoovibe.vercel.app/",
       dates: "2024",
-      active: true,
+      active: false,
       description:
         "A comprehensive e-commerce platform built with React.js, CSS Bootstrap, MUI, and various other libraries and tools. Implemented user authentication, routing, form management, API integration, and dynamic content.",
       technologies: [
@@ -171,7 +167,7 @@ export const DATA = {
       title: "fecund",
       href: "https://fecund-jap.com/",
       dates: "2024",
-      active: true,
+      active: false,
       description:
         "An e-commerce platform for selling phone accessories, built with HTML, CSS, JavaScript, Bootstrap, Swiper.js, and more. Features include API integration, and dynamic content.",
 
@@ -191,7 +187,7 @@ export const DATA = {
       title: "GPT-3 Landing Page",
       href: "https://gpt3-stm.netlify.app/",
       dates: " 2023",
-      active: true,
+      active: false,
       description:
         "Developed a landing page for an AI Customer Support Chatbot, utilizing the latest GPT models to automatically respond to customer support tickets. Built with React, Tailwind CSS, and JavaScript for a modern and responsive design.",
       technologies: ["React", "Tailwind CSS", "JavaScript"],
@@ -209,7 +205,7 @@ export const DATA = {
       title: "Groco Store",
       href: "https://63c07647197af872b5d61273--charming-donut-3c499b.netlify.app/",
       dates: " 2023",
-      active: true,
+      active: false,
       description:
         "Developed a responsive e-commerce website for a grocery store, featuring product listings and a blog page. Built with HTML, CSS, Bootstrap, and Swiper.js to ensure a modern and user-friendly interface.",
       technologies: ["HTML", "CSS", "Bootstrap", "Swiper.js"],
@@ -227,7 +223,7 @@ export const DATA = {
       title: "Ellaboutique",
       href: "#", //https://ellaboutiquetr.com
       dates: " 2024",
-      active: true,
+      active: false,
       description:
         "Developed a responsive e-commerce website for showcasing clothes, featuring product listings. Built with HTML, CSS, Bootstrap, and Swiper.js to ensure a modern and user-friendly interface.",
       technologies: ["HTML", "CSS", "Bootstrap", "Swiper.js"],
